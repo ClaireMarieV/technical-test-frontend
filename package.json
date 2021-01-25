@@ -1,0 +1,23 @@
+{
+  "name": "technical-interview-frontend",
+  "version": "1.0.0",
+  "description": "## How to get a movie poster image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/json-server/lib/cli/bin.js db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SESAMm/technical-interview-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SESAMm/technical-interview-frontend/issues"
+  },
+  "homepage": "https://github.com/SESAMm/technical-interview-frontend#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
